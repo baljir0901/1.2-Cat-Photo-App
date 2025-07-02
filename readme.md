@@ -4,7 +4,7 @@
 Таны анхны HTML төсөл — муурны зураг бүхий вэб хуудас!
 
 ## 📸 Демо
-![Cat Screenshot](path/to/screenshot.png)
+![Cat Screenshot](screenshot.png)
 
 🔗 Шууд үзэх: [Live Preview](https://1-2-cat-photo-app.vercel.app/)
 
