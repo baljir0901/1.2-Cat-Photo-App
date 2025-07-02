@@ -6,7 +6,7 @@
 ## 📸 Демо
 ![Cat Screenshot](path/to/screenshot.png)
 
-🔗 Шууд үзэх: [Live Preview](https://baljir0901.github.io/1.2-Cat-Photo-App/)
+🔗 Шууд үзэх: [Live Preview](https://1-2-cat-photo-app.vercel.app/)
 
 ## 🛠 Ашигласан технологи
 
