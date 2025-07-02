@@ -17,26 +17,18 @@
 ## 🚀 Ашиглах заавар
 
 1. Энэ репозиторыг клон хийнэ:
-```bash
+
 git clone https://github.com/baljir0901/1.2-Cat-Photo-App.git
 
-# 🐱 Cat Photo App
+#  🌐 Vercel-д Deploy хийх заавар | How to Deploy on Vercel
 
-Your very first HTML project — a simple webpage featuring cute cat photos!
+https://vercel.com сайт руу орж GitHub хаягаараа нэвтэрнэ
 
-## 📸 Demo
-![Cat Screenshot](path/to/screenshot.png)
+"New Project" дээр дарна
 
-🔗 Live Preview: [Click here](https://baljir0901.github.io/1.2-Cat-Photo-App/)
+Өөрийнхөө 1.2-Cat-Photo-App репозиторыг сонгоно
 
-## 🛠 Technologies Used
+Тохиргоо хийх шаардлагагүй — шууд "Deploy" дээр дар
 
-- HTML5
-- CSS (optional)
-- Based on FreeCodeCamp lesson exercises
+Сайт 5-10 секундийн дотор ажиллана
 
-## 🚀 How to Use
-
-1. Clone this repository:
-```bash
-git clone https://github.com/baljir0901/1.2-Cat-Photo-App.git
